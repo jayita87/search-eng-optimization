@@ -8,9 +8,8 @@ This project's purpose is to debug the page so that the links function, CSS sele
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
 * [Tests](#tests)
-* [Questions](#questions)
+* [Contact](#contact)
 
 ## Installation 
 No installation needed. 
@@ -23,3 +22,9 @@ Please view deployed Git Hub [URL](hhttps://noora1125.github.io/Code-Refactor/)
 
 ## License 
 This project is license under MIT
+
+## Tests
+There are no tests for this application as the project was about code refactoring.
+
+## Contact
+If you have any questions about this projects, please contact me directly at jayita.chowdhury.1987@gmail.com. You can view more of my projects at https://github.com/jayita87.
