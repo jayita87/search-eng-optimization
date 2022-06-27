@@ -20,3 +20,6 @@ This is not an actual application but rather for tests ONLY. The assignment was 
 Please view deployed Git Hub [URL](hhttps://noora1125.github.io/Code-Refactor/)
 <img src="./assets/images/social-media-marketing.jpg">
 <img src="./assets/images/digital-marketing-meeting.jpg">
+
+## License 
+This project is license under MIT
