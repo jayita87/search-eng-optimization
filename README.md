@@ -1,1 +1,3 @@
-# search-eng-optimization
+# search-eng-optimization code refactor
+
+This project's purpose was to debug the page so that the links are function, CSS selectors/properties are consolidated and sematic and to optimize the code for search engines.
