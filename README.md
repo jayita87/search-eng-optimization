@@ -16,7 +16,7 @@ No installation needed.
 
 ## Usage 
 This is not an actual application but rather for tests ONLY. The assignment was to go through the code and find the bugs and errors and get it fixed so that the site is populating as its supposed to be. Job well done. <br>
-Please view deployed Git Hub [URL](hhttps://noora1125.github.io/Code-Refactor/)
+Please view deployed Git Hub [URL](https://jayita87.github.io/search-eng-optimization-refactor/)
 <img src="./assets/images/social-media-marketing.jpg">
 <img src="./assets/images/digital-marketing-meeting.jpg">
 
